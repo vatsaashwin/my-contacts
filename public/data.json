@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "firstName": "Robert",
+    "lastName": "William",
+    "phone": "+1(541)515-2030",
+    "email": "rob.william23@gmail.com"
+  },
+  {
+    "id": 1,
+    "firstName": "Joannie",
+    "lastName": "Paucek",
+    "phone": "+1(639)208-1077",
+    "email": "paucek.joa@yahoo.com"
+  },
+  {
+    "id": 2,
+    "firstName": "Bettie",
+    "lastName": "Sawayn",
+    "phone": "+1(998)971-1734",
+    "email": "bet.sawayn@gmail.com"
+  },
+  {
+    "id": 3,
+    "firstName": "Edmond",
+    "lastName": "Price",
+    "phone": "+1(975)650-1601",
+    "email": "p.edmond@outlook.com"
+  },
+  {
+    "id": 4,
+    "firstName": "Arya",
+    "lastName": "Menon",
+    "phone": "+1(341)440-2981",
+    "email": "aryamenon90@gmail.com"
+  },
+  {
+    "id": 5,
+    "firstName": "Dan",
+    "lastName": "Abramov",
+    "phone": "+1(248)380-8475",
+    "email": "gaearon@gmail.com"
+  },
+  {
+    "id": 6,
+    "firstName": "Amy",
+    "lastName": "Santiago",
+    "phone": "+1(404)437-4428",
+    "email": "amy.santiago@ymail.com"
+  },
+  {
+    "id": 7,
+    "firstName": "Zhang",
+    "lastName": "Xiu",
+    "phone": "+1(617)938-9382",
+    "email": "xiuzhang12@gmail.com"
+  },
+  {
+    "id": 8,
+    "firstName": "Denzel",
+    "lastName": "Smith",
+    "phone": "+1(817)472-3933",
+    "email": "smith.denzel@outlook.com"
+  },
+  {
+    "id": 9,
+    "firstName": "Pedro",
+    "lastName": "Henrique",
+    "phone": "+1(512)249-3741",
+    "email": "pedro.henrique90@gmail.com"
+  }
+]
